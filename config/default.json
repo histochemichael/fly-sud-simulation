@@ -1,0 +1,8 @@
+{
+  "experiment": {"n_flies": 100, "seed": 42, "conditioning_sessions": 3},
+  "protocol": {"exposure_duration_s": 60.0, "intertrial_interval_s": 30.0},
+  "learning": {"learning_rate": 0.55, "reward_strength": 1.0, "weight_decay": 0.01, "max_weight": 1.5, "unpaired_context_activation": 0.45},
+  "odor": {"source_strength": 1.0, "length_scale": 1.15, "sensor_separation": 0.16, "sensor_forward_offset": 0.06, "sensory_noise": 0.018},
+  "arena": {"source_x": 1.15, "source_y": 1.25, "start_y": -1.25, "junction_y": 0.0, "choice_y": 0.72, "choice_x": 0.32, "stem_half_width": 0.20},
+  "movement": {"dt": 0.05, "speed": 0.13, "speed_variability": 0.08, "turn_gain": 3.2, "turn_damping": 0.78, "max_turn_rate": 2.7, "motor_noise": 0.48, "initial_heading_sd": 0.10, "innate_odor_salience": 0.22, "max_steps": 420}
+}

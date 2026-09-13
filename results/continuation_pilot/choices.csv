@@ -1,0 +1,5 @@
+condition,fly_id,choice,completed,latency_s,distance_mm,odor_b_side,random_seed,circuit_seed,last_x_mm,last_y_mm,weight_a,weight_b,physical_training,physics_ticks,control_updates,continued_after_choice,observation_distance_mm,observation_end_s,termination_reason
+dan_silenced,0,B,True,1.1913,28.740993839752644,right,3329053876,3645748255,28.49253623593803,-1.970522434135223,0.0,0.555733971191482,True,50000,500,True,47.544907490449006,2.0,test_window_complete
+paired,0,B,True,0.8779,21.457817953585494,right,3329053876,3645748255,26.540728052837977,-9.93508667961912,0.0,0.555733971191482,True,50000,500,True,47.8867813336471,2.0,test_window_complete
+unpaired,0,B,True,0.8848,21.59731998519921,right,955475868,2752441786,27.089411420249995,-9.631724555390434,0.0,0.0,True,50000,500,True,47.811151368506245,2.0,test_window_complete
+untrained,0,none,False,,47.6534262766319,left,3444837047,2669555309,28.459643210513956,-2.2278922118671494,0.0,0.0,True,50000,500,True,47.6534262766319,2.0,test_window_complete

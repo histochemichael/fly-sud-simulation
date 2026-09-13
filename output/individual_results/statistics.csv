@@ -1,0 +1,7 @@
+endpoint,comparison,test,n1,n2,statistic,p,p_holm_six_tests
+choice,Paired vs Untrained,Fisher exact (two-sided),91,86,3.4,0.00019319469389962162,0.0009659734694981081
+choice,Paired vs Unpaired,Fisher exact (two-sided),91,85,3.0269151138716355,0.0006148864003061205,0.002459545601224482
+choice,Paired vs DAN off,Exact McNemar (two-sided),100,100,0.0,3.725290298461914e-09,2.2351741790771484e-08
+latency,Paired vs Untrained,Mann-Whitney U (two-sided),91,86,4022.0,0.750143285356196,0.750143285356196
+latency,Paired vs Unpaired,Mann-Whitney U (two-sided),91,85,4406.5,0.11087572560264033,0.332627176807921
+latency,Paired vs DAN off,Wilcoxon signed-rank (two-sided),78,78,1242.0,0.1370796432668505,0.332627176807921

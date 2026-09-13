@@ -1,0 +1,158 @@
+{
+  "source": "results/physical_batch/choices.csv",
+  "source_sha256": "7720369eaec3f047c13c4617d4caf188b2fa3afc79fabdb251987364f347018b",
+  "summary": [
+    {
+      "condition": "untrained",
+      "n": 100,
+      "A": 46,
+      "B": 40,
+      "none": 14,
+      "n_latency": 86,
+      "median_latency_s": 0.9395,
+      "pi_responders": -0.06976744186046512
+    },
+    {
+      "condition": "paired",
+      "n": 100,
+      "A": 23,
+      "B": 68,
+      "none": 9,
+      "n_latency": 91,
+      "median_latency_s": 0.9482,
+      "pi_responders": 0.4945054945054945
+    },
+    {
+      "condition": "unpaired",
+      "n": 100,
+      "A": 43,
+      "B": 42,
+      "none": 15,
+      "n_latency": 85,
+      "median_latency_s": 0.8989,
+      "pi_responders": -0.011764705882352941
+    },
+    {
+      "condition": "dan_silenced",
+      "n": 100,
+      "A": 47,
+      "B": 39,
+      "none": 14,
+      "n_latency": 86,
+      "median_latency_s": 0.9377500000000001,
+      "pi_responders": -0.09302325581395349
+    }
+  ],
+  "tests": [
+    {
+      "endpoint": "choice",
+      "comparison": "Paired vs Untrained",
+      "test": "Fisher exact (two-sided)",
+      "n1": 91,
+      "n2": 86,
+      "statistic": 3.4,
+      "p": 0.00019319469389962162,
+      "details": {
+        "table_B_A": [
+          [
+            68,
+            23
+          ],
+          [
+            40,
+            46
+          ]
+        ],
+        "excludes": "nonresponses"
+      },
+      "p_holm_six_tests": 0.0009659734694981081
+    },
+    {
+      "endpoint": "choice",
+      "comparison": "Paired vs Unpaired",
+      "test": "Fisher exact (two-sided)",
+      "n1": 91,
+      "n2": 85,
+      "statistic": 3.0269151138716355,
+      "p": 0.0006148864003061205,
+      "details": {
+        "table_B_A": [
+          [
+            68,
+            23
+          ],
+          [
+            42,
+            43
+          ]
+        ],
+        "excludes": "nonresponses"
+      },
+      "p_holm_six_tests": 0.002459545601224482
+    },
+    {
+      "endpoint": "choice",
+      "comparison": "Paired vs DAN off",
+      "test": "Exact McNemar (two-sided)",
+      "n1": 100,
+      "n2": 100,
+      "statistic": 0,
+      "p": 3.725290298461914e-09,
+      "details": {
+        "B_loss": 29,
+        "B_gain": 0,
+        "endpoint": "B vs not-B, including nonresponse",
+        "matched_pairs": 100
+      },
+      "p_holm_six_tests": 2.2351741790771484e-08
+    },
+    {
+      "endpoint": "latency",
+      "comparison": "Paired vs Untrained",
+      "test": "Mann-Whitney U (two-sided)",
+      "n1": 91,
+      "n2": 86,
+      "statistic": 4022.0,
+      "p": 0.750143285356196,
+      "details": {
+        "method": "asymptotic, tie-corrected, continuity correction",
+        "population": "responders only"
+      },
+      "p_holm_six_tests": 0.750143285356196
+    },
+    {
+      "endpoint": "latency",
+      "comparison": "Paired vs Unpaired",
+      "test": "Mann-Whitney U (two-sided)",
+      "n1": 91,
+      "n2": 85,
+      "statistic": 4406.5,
+      "p": 0.11087572560264033,
+      "details": {
+        "method": "asymptotic, tie-corrected, continuity correction",
+        "population": "responders only"
+      },
+      "p_holm_six_tests": 0.332627176807921
+    },
+    {
+      "endpoint": "latency",
+      "comparison": "Paired vs DAN off",
+      "test": "Wilcoxon signed-rank (two-sided)",
+      "n1": 78,
+      "n2": 78,
+      "statistic": 1242.0,
+      "p": 0.1370796432668505,
+      "details": {
+        "matched_complete_pairs": 78,
+        "nonzero_differences": 78,
+        "method": "normal approximation; zero differences dropped; no continuity correction",
+        "difference_rounding_s": 0.0001,
+        "population": "both conditions responded; symmetry of differences assumed"
+      },
+      "p_holm_six_tests": 0.332627176807921
+    }
+  ],
+  "adjustment": "Holm across all six exploratory comparisons; no new independent batches",
+  "violin": "Scott KDE, trimmed to observed extrema; each dot is one original fly",
+  "latency_caveat": "Conditional on response; nonresponses are not assigned a latency of 2 seconds. Not a censoring-aware population latency analysis."
+}

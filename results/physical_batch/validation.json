@@ -1,0 +1,6 @@
+{
+  "flies": 400,
+  "control_rows": 168346,
+  "physics_rows": 4818271,
+  "checks": "naive zero; test weights frozen; zero test reward; complete state joins; finite poses; monotonic times"
+}

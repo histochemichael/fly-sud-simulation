@@ -1,0 +1,8 @@
+{
+  "paired_vs_untrained_responders_fisher_p": 0.00019319469389962162,
+  "paired_vs_unpaired_responders_fisher_p": 0.0006148864003061205,
+  "paired_vs_dan_silenced_responders_fisher_p": 0.00010646497938770728,
+  "matched_dan_discordant_B_loss": 29,
+  "matched_dan_discordant_B_gain": 0,
+  "matched_dan_exact_p": 3.725290298461914e-09
+}

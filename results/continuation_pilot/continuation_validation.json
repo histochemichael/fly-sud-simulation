@@ -1,0 +1,34 @@
+[
+  {
+    "fly": "dan_silenced_000",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8087,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_000",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11221,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_000",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11152,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_000",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  }
+]

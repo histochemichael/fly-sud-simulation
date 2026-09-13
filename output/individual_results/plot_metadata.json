@@ -1,0 +1,14 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "packages": {
+    "scipy": "1.18.1",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "matplotlib": "3.11.2"
+  },
+  "dot_jitter_seed": 3042,
+  "violin_bandwidth": "Scott",
+  "data_source": "results/physical_batch/choices.csv",
+  "uploaded": false
+}

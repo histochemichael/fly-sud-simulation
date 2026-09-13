@@ -1,0 +1,3202 @@
+[
+  {
+    "fly": "dan_silenced_000",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8087,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_001",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11375,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_002",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11415,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_003",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11341,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_004",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10244,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_005",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5600,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_006",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_007",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10626,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_008",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10596,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_009",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10537,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_010",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9014,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_011",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_012",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10561,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_013",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10962,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_014",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11331,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_015",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3305,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_016",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10166,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_017",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11019,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_018",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6059,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_019",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_020",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2873,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_021",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4751,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_022",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9822,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_023",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_024",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11413,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_025",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11312,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_026",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11152,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_027",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_028",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6885,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_029",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11076,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_030",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11391,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_031",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10519,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_032",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8937,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_033",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11180,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_034",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_035",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10547,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_036",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5611,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_037",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10733,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_038",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8502,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_039",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11012,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_040",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4389,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_041",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10619,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_042",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_043",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10942,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_044",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_045",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9760,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_046",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8933,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_047",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10612,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_048",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11030,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_049",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11355,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_050",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10975,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_051",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11103,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_052",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11028,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_053",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_054",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11091,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_055",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3566,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_056",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11372,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_057",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_058",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_059",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11326,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_060",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8159,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_061",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11060,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_062",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11348,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_063",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10913,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_064",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7394,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_065",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8253,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_066",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9758,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_067",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_068",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6846,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_069",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3268,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_070",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10251,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_071",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10944,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_072",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11081,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_073",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11360,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_074",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11321,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_075",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4812,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_076",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10927,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_077",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6137,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_078",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10749,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_079",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9347,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_080",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11351,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_081",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 1449,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_082",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7708,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_083",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11370,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_084",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6077,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_085",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11101,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_086",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9712,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_087",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2263,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_088",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10761,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_089",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11393,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_090",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8063,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_091",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11298,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_092",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11395,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_093",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11018,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_094",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11066,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_095",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_096",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5590,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_097",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8150,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_098",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10783,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "dan_silenced_099",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_000",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11221,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_001",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10995,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_002",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11074,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_003",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_004",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6927,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_005",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11305,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_006",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11031,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_007",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10943,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_008",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4798,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_009",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 1906,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_010",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11086,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_011",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11308,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_012",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7224,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_013",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11174,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_014",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10194,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_015",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9362,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_016",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_017",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11168,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_018",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10363,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_019",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11128,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_020",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8979,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_021",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8537,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_022",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10522,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_023",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8474,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_024",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4944,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_025",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10656,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_026",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9313,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_027",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11406,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_028",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_029",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10269,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_030",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10745,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_031",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10790,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_032",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2640,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_033",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10668,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_034",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8909,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_035",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9529,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_036",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11351,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_037",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11061,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_038",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_039",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9519,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_040",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7017,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_041",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_042",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9766,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_043",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11075,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_044",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_045",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2244,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_046",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11203,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_047",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2710,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_048",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11155,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_049",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11029,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_050",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10232,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_051",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10161,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_052",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10784,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_053",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10178,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_054",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10518,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_055",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9430,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_056",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11012,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_057",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11447,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_058",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11402,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_059",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10616,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_060",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11337,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_061",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11333,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_062",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6545,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_063",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11059,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_064",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10018,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_065",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_066",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11181,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_067",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7677,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_068",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_069",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7241,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_070",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5575,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_071",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11170,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_072",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10609,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_073",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6140,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_074",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10923,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_075",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3522,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_076",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11312,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_077",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_078",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11347,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_079",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11072,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_080",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11045,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_081",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6886,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_082",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 346,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_083",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3520,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_084",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3911,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_085",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10381,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_086",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3471,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_087",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9900,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_088",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10538,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_089",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2706,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_090",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4406,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_091",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10903,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_092",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11048,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_093",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4464,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_094",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9419,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_095",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6710,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_096",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9351,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_097",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11167,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_098",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11061,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "paired_099",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11452,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_000",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11152,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_001",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11374,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_002",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5675,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_003",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11373,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_004",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11332,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_005",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5222,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_006",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2019,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_007",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_008",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10668,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_009",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11419,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_010",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11044,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_011",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_012",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_013",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_014",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8101,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_015",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11411,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_016",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_017",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10240,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_018",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11060,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_019",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8144,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_020",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_021",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10078,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_022",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11212,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_023",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11323,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_024",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3545,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_025",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8122,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_026",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11101,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_027",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11361,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_028",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9731,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_029",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11315,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_030",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11307,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_031",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4898,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_032",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11171,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_033",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2060,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_034",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4793,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_035",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11306,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_036",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11022,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_037",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_038",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 1134,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_039",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11027,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_040",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8979,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_041",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11011,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_042",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11410,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_043",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11037,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_044",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10632,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_045",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_046",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_047",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7446,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_048",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8520,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_049",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7331,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_050",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10998,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_051",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11310,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_052",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10653,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_053",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9545,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_054",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11067,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_055",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 202,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_056",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11339,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_057",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11347,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_058",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_059",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8904,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_060",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11082,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_061",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3725,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_062",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7650,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_063",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11065,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_064",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_065",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_066",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11361,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_067",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11390,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_068",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11081,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_069",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8168,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_070",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11323,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_071",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 1884,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_072",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11164,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_073",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11430,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_074",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10911,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_075",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11414,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_076",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11051,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_077",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11163,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_078",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8087,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_079",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_080",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11334,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_081",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_082",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11301,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_083",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11061,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_084",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9311,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_085",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8976,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_086",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10796,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_087",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11073,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_088",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_089",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6846,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_090",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11317,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_091",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9678,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_092",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6333,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_093",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9775,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_094",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11062,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_095",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7910,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_096",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11092,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_097",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10583,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_098",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9776,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "unpaired_099",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8565,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_000",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_001",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5177,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_002",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6803,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_003",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10607,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_004",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11318,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_005",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 1051,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_006",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 631,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_007",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11345,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_008",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_009",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4914,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_010",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5990,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_011",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10977,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_012",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11440,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_013",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9732,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_014",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6243,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_015",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11314,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_016",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10942,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_017",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11339,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_018",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11314,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_019",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11333,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_020",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11064,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_021",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11409,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_022",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_023",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11409,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_024",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11194,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_025",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10603,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_026",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_027",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10672,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_028",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11053,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_029",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 1076,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_030",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8282,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_031",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_032",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11186,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_033",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9966,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_034",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10670,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_035",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10746,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_036",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 1842,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_037",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9022,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_038",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 1451,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_039",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 490,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_040",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9356,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_041",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11364,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_042",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10608,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_043",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8939,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_044",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11091,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_045",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6860,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_046",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10969,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_047",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 206,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_048",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11370,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_049",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11171,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_050",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9349,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_051",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9901,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_052",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3147,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_053",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11362,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_054",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11357,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_055",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11371,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_056",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11068,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_057",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_058",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5227,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_059",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10308,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_060",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11092,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_061",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_062",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10259,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_063",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11344,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_064",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_065",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10972,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_066",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10637,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_067",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8108,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_068",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11357,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_069",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 699,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_070",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_071",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9391,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_072",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_073",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 4551,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_074",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6892,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_075",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 5995,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_076",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10173,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_077",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 3134,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_078",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_079",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 6843,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_080",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11358,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_081",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11291,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_082",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11027,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_083",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11346,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_084",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10735,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_085",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10949,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_086",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11391,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_087",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9799,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_088",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_089",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7246,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_090",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 2335,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_091",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9362,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_092",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11304,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_093",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 11081,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_094",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 10227,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_095",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_096",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 0,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_097",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 9749,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_098",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 7249,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  },
+  {
+    "fly": "untrained_099",
+    "prefix_exact": true,
+    "choice_preserved": true,
+    "additional_physics_rows": 8220,
+    "end_s": 2.0,
+    "termination": "test_window_complete"
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "chapters": [
+    {
+      "chapter": "paper_intro",
+      "start_s": 0,
+      "duration_s": 6
+    },
+    {
+      "chapter": "conditions_intro",
+      "start_s": 6,
+      "duration_s": 6
+    },
+    {
+      "chapter": "engine_intro",
+      "start_s": 12,
+      "duration_s": 8
+    },
+    {
+      "chapter": "circuit_intro",
+      "start_s": 20,
+      "duration_s": 6
+    },
+    {
+      "chapter": "training",
+      "start_s": 26,
+      "duration_s": 30
+    },
+    {
+      "chapter": "test",
+      "start_s": 56,
+      "duration_s": 20
+    },
+    {
+      "chapter": "dan_training",
+      "start_s": 76,
+      "duration_s": 30
+    },
+    {
+      "chapter": "dan_test",
+      "start_s": 106,
+      "duration_s": 20
+    },
+    {
+      "chapter": "trajectories",
+      "start_s": 126,
+      "duration_s": 14
+    },
+    {
+      "chapter": "results",
+      "start_s": 140,
+      "duration_s": 20
+    },
+    {
+      "chapter": "learned",
+      "start_s": 160,
+      "duration_s": 12
+    },
+    {
+      "chapter": "paper_limits",
+      "start_s": 172,
+      "duration_s": 12
+    },
+    {
+      "chapter": "next_steps",
+      "start_s": 184,
+      "duration_s": 16
+    }
+  ],
+  "duration_s": 200,
+  "files": [
+    {
+      "file": "dan_silenced_test.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "b940e10676be1d2f11350b2b9ecd5af4d3a7ee3e4e1cec06f3b29a2de5a676de"
+    },
+    {
+      "file": "dan_silenced_training.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "55949afe68886379c316898e3e947690ad1adc8fcf65b75d47ffddc1ead8a8dc"
+    },
+    {
+      "file": "fly_ethanol_reward_sleek.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "e05ce164c00295e4de58174b85751c2b3a2bf30390ce08241e4a63920f1dd000"
+    },
+    {
+      "file": "paired_test.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "41617fe2dcc255d27ab3e9a3863ccc3b9f37425881df556606307ca66049cf19"
+    },
+    {
+      "file": "paired_training.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "b583317f1afa247a03e86cea91334fcbca0020b6117f33311b335d0fb98a7d06"
+    },
+    {
+      "file": "unpaired_test.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "07b17c876ca0926e9da22915fdc8d9ef7b6d926d6dc57a162a51c7e31aa18872"
+    },
+    {
+      "file": "unpaired_training.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "2f7e556d0d442bbad26ee258c4dca9c3b663bf642a6317b171a922bc1bc5ec96"
+    },
+    {
+      "file": "untrained_test.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "f29575fbd60e578583508a188f7823ae9016008c9e2d0373780237b267289b1b"
+    },
+    {
+      "file": "untrained_training.mp4",
+      "audio_streams": 0,
+      "fully_decoded": true,
+      "sha256": "58f7da7ef0b55bd0c2ab26193e234421086a5aaecb373ccd7f8aef3ee331b07c"
+    }
+  ]
+}

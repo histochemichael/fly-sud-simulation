@@ -1,0 +1,27 @@
+{
+  "created_at": "2026-09-13T09:36:24.351129-07:00",
+  "backend": "fast_planar_embodied",
+  "flygym_physical_backend_verified": true,
+  "master_seed": 42,
+  "n_flies_per_condition": 100,
+  "conditions": [
+    "untrained",
+    "paired",
+    "unpaired"
+  ],
+  "reward_present_during_test": false,
+  "learning_mode": "online reward-modulated associative learning during simulated experience",
+  "uses_deep_learning": false,
+  "biologically_complete_addiction_model": false,
+  "scientific_note": "Ethanol is an abstract reinforcing state, not pharmacology.",
+  "config_sha256": "5725d9b69a024ee703b499aeca09811d4dfdfd6fbee9a71ab32e4ca3c5b170df",
+  "software_versions": {
+    "flygym": "2.1.0",
+    "mujoco": "3.9.0",
+    "numpy": "2.3.5",
+    "pandas": "3.0.1",
+    "matplotlib": "3.11.2",
+    "pyarrow": "21.0.0",
+    "python": "3.12.14"
+  }
+}

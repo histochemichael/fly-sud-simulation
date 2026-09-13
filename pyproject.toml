@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fly-sud-simulation"
+version = "0.1.0"
+description = "Embodied V1 reproduction of Drosophila ethanol-cue reward conditioning"
+requires-python = ">=3.12"
+dependencies = ["flygym==2.1.0", "matplotlib>=3.10,<4", "numpy>=2,<3", "pandas>=3,<4", "pyarrow>=21,<22"]
+
+[project.optional-dependencies]
+test = ["pytest>=9,<10"]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

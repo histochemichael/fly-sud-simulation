@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+results/*
+!results/.gitkeep
+tmp/
+output/*
+!output/assets/
+!output/sleek_revision/
+!output/individual_results/
+!output/figures/
+!output/representative_figures.pdf
+!output/DATA_GUIDE.md
+output/individual_results/*.mp4
+output/sleek_revision/*.zip
