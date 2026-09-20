@@ -1,0 +1,30 @@
+{
+  "dataset": "FlyWire FAFB v783",
+  "annotation_tag": "v2.1.0",
+  "annotation_commit": "ebd66db2596fcc39c6950fb54ea3efa00f7fe8a0",
+  "connectivity_doi": "10.5281/zenodo.10676866",
+  "connectivity_license": "CC-BY-4.0",
+  "files": [
+    {
+      "file": "annotations.tsv",
+      "url": "https://raw.githubusercontent.com/flyconnectome/flywire_annotations/ebd66db2596fcc39c6950fb54ea3efa00f7fe8a0/supplemental_files/Supplemental_file1_neuron_annotations.tsv",
+      "md5": "8527e0a95ed5f112766b13260a91e8e2",
+      "sha256": "30be6c73975a70c56d930e27911f36455d3886e15abf383b78edd2a5d679e0b6",
+      "bytes": 27015208
+    },
+    {
+      "file": "proofread_connections_783.feather",
+      "url": "https://zenodo.org/api/records/10676866/files/proofread_connections_783.feather/content",
+      "md5": "f48f972d262323a102aed49af1396b8a",
+      "sha256": "24f960ae3e7d4f8cd30db3b62e99fb5179cc3d1e76d8c155bfb441e9737d3faf",
+      "bytes": 852022274
+    },
+    {
+      "file": "proofread_root_ids_783.npy",
+      "url": "https://zenodo.org/api/records/10676866/files/proofread_root_ids_783.npy/content",
+      "md5": "e0e6c19732fd8c7a4e39a2d170105421",
+      "sha256": "7c7b7e818e9232e5ab64793d52ba20574dbe9da3a6509fbc74193b0f259a01be",
+      "bytes": 1114168
+    }
+  ]
+}

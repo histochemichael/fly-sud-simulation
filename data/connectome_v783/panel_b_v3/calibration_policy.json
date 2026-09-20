@@ -1,0 +1,12 @@
+{
+  "targets": "Only internal value signs with arbitrary +/-0.05 margin at .5 and 24 hours; not digitized paper CPI.",
+  "held_out": "3,6,12,15,48 h are excluded from selection; inspecting these after freezing is evaluation, not blind to published findings.",
+  "readout": "Functional hypothesis; not identified MBON-to-descending neuron wiring. No time-dependent action overrides.",
+  "model_selection": "Both models evaluated; do not select by best behavioral p-value.",
+  "motor_settings": "Engineering constants, no endpoint behavioral calibration. Validate with separate clamps.",
+  "candidates": 72,
+  "source_sha256": {
+    "experiments\\calibrate_panel_b.py": "40c24e758e362c2e8b0e4e6f369aa778771857cf514e317c0a3ce77aca02dd20",
+    "src\\fly_sud\\panel_b.py": "3e37bfa874b6066dad5df004b06cc8b2b59badc5fd25b8a9a7633304a2434c12"
+  }
+}

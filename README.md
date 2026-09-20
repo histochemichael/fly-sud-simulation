@@ -1,10 +1,34 @@
-# Drosophila ethanol-cue reward simulation (V1)
+# Drosophila ethanol-cue learning simulation
 
-## Current public release
+## Latest published results: individual-behavior V4b
+
+[Paper-versus-simulation results and figures](docs/results/individual_behavior_v4b/RESULTS.md) · [Full Hugging Face dataset](https://huggingface.co/datasets/Histochemichael/fly-sud-simulation)
+
+The 256-fly independently seeded validation showed mixed individual choices and early avoidance / late approach, but **FAILED the full declared validation**: early Holm p=0.03125; late p=0.09375. This is not quantitative biological replication. Both timing points informed calibration, and the memory transition remains too early. Failed V4 calibration and all V4b trials are preserved in the dataset with source snapshots, configurations, seeds, learning states, Parquet histories and checksums. The original experiments were not tuned or overwritten for publication.
+
+![Original paper beside actual simulation results](docs/results/individual_behavior_v4b/paper_vs_sim_v4b.png)
+
+Only paper panel b is directly compared. Sample sizes, statistical tests and axis ranges differ; see the detailed results and [paper figure attribution](docs/results/individual_behavior_v4b/PAPER_ATTRIBUTION.md). The historical V1 film below is not a V4b recording.
+
+## Connectome-based temporal version
+
+See [CONNECTOME_VERSION.md](CONNECTOME_VERSION.md) for the new FlyWire FAFB v783 implementation: 8,570 selected olfactory/mushroom-body neurons, measured neuron-to-neuron connectivity, competing memory hypotheses and biological-time delay tests. It is **not a whole-brain simulation**; dynamics, plasticity and motor decoding remain explicit assumptions. The published V1 below is preserved and does not use connectome-derived connectivity.
+
+Read [CONNECTOME_RESULTS.md](CONNECTOME_RESULTS.md) for the completed 240-test corrected pilot, actual outcome counts, and failed timing/behavioral validation targets. Internal value signs are not behavioral replication. Source code is now published; the Hugging Face release contains V4/V4b records only.
+
+## Historical development and V1 media
+
+The [V4 protocol](INDIVIDUAL_BEHAVIOR_V4_PROTOCOL.md) and [V4b follow-up protocol](INDIVIDUAL_BEHAVIOR_V4B_PROTOCOL.md) preserve the failed gain calibration and separate it from independently seeded validation. The controller retains memory magnitude and gives each fly independent gait, heading, sensory and motor seeds. Variability distributions are assumed; memory timing is unchanged. These records are now published on Hugging Face under raw/v4 and raw/v4b.
+
+The [completed V4b report and individual-fly figures](docs/results/individual_behavior_v4b/RESULTS.md) cover 256 independently seeded validation flies. Mixed choices and early avoidance/late approach were observed. The early paired-versus-unpaired comparison passed (Holm p=0.03125), but the late comparison did not (p=0.09375), so the full declared validation failed. All physical/data audits passed; this is not a quantitative paper replication. The earlier pilot was not tuned or overwritten.
+
+Local panel-b revision: [PANEL_B_RESULTS.md](PANEL_B_RESULTS.md) and [PANEL_B_PROTOCOL.md](PANEL_B_PROTOCOL.md) document 96 physical trials using FlyWire-derived connectivity. Both calibrated models express early avoidance and late approach, but their effect is too strong and memory timing still mismatches the paper. Dopamine learning remains simplified. This is not a quantitative replication or a new public release.
+
+Local follow-up: [CONNECTOME_DIAGNOSTICS.md](CONNECTOME_DIAGNOSTICS.md) reports sensory checks, 56 learning-disabled physical motor diagnostics, and isolated memory timing tests. The body responds to strong approach/avoidance clamps, but the learned readout is weak and frozen memory timing fails the paper comparison. These are diagnostics, not a successful replication or new public release.
 
 The latest silent experiment film is [fly_ethanol_reward_sleek.mp4](output/sleek_revision/fly_ethanol_reward_sleek.mp4). See the [representative figures and detailed report](output/representative_figures.pdf), [actual-result plots and statistics](output/individual_results), and [data guide](output/DATA_GUIDE.md). The four conditions are untrained, paired, unpaired, and retrieval-DAN-silenced.
 
-Full per-fly Parquet histories, initial/final learning states, seeds, configurations, metadata and validation records are distributed in the [V1 GitHub release](https://github.com/histochemichael/fly-sud-simulation/releases/tag/v1.0.0), preserving their `results/` paths. Download all 24 `fly-sud-results-part-XX.zip` archives and extract each into this repository to run saved-data analyses. These are standalone ZIP files, not binary split volumes; no concatenation is needed. Summaries are also tracked in `results/`. No data are uploaded to Hugging Face. Temporary renders, the virtual environment and obsolete video versions are excluded.
+Historical V1 per-fly histories and states remain in the [V1 GitHub release](https://github.com/histochemichael/fly-sud-simulation/releases/tag/v1.0.0), preserving their results paths. Download all 24 fly-sud-results-part-XX.zip archives and extract each into this repository for V1 saved-data analyses. These are standalone ZIP files, not binary split volumes. The new Hugging Face dataset contains V4/V4b only; do not pool those experiments with V1. Temporary renders, credentials and the virtual environment are excluded.
 
 The physical result is a qualitative conditioned-preference demonstration, not a quantitative replication of Kaun et al. (2011), DOI: 10.1038/nn.2805. It does not reproduce the paper's early aversion, 24-hour consolidation or ethanol pharmacology. Learning is online associative/reward-modulated, not deep learning or a biologically complete addiction model. Continued trajectories reuse the same flies and are not new independent replicates.
 

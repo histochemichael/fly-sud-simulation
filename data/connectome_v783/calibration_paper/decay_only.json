@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "dataset": "FlyWire FAFB v783",
+  "master_seed": 9301,
+  "odor_encoding_seed": 7331,
+  "min_pair_synapses": 5,
+  "kc_threshold": 0.15,
+  "kc_sparsity_quantile": 0.85,
+  "odor_sparsity": 0.2,
+  "acquisition_per_s": 0.0015,
+  "aversive_tau_h": 2.0,
+  "consolidation_tau_h": 6.0,
+  "long_memory_tau_h": 168,
+  "appetitive_scale": 1,
+  "aversive_scale": 2.0,
+  "decay_only_appetitive_scale": 0.35,
+  "ethanol_uptake_tau_s": 120,
+  "ethanol_clearance_tau_s": 300,
+  "training_exposure_s": 600,
+  "training_interval_s": 3000,
+  "conditioning_sessions": 3,
+  "biological_step_s": 60,
+  "delays_h": [
+    0.5,
+    3,
+    6,
+    12,
+    24
+  ],
+  "conditions": [
+    "untrained",
+    "paired",
+    "unpaired",
+    "dan_silenced",
+    "dan_acquisition",
+    "dan_consolidation"
+  ],
+  "models": [
+    "consolidating",
+    "decay_only"
+  ],
+  "learning_dan_dependence": false,
+  "calibration_delays_h": [
+    0.5,
+    24
+  ],
+  "prediction_delays_h": [
+    3,
+    6,
+    12
+  ],
+  "motor_value_gain": 50.0,
+  "innate_value": 0.15,
+  "test_duration_s": 2,
+  "physics_dt_s": 0.0001,
+  "control_dt_s": 0.01,
+  "base_drive": 1,
+  "max_turn": 0.6,
+  "turn_gain": 12,
+  "motor_noise_sd": 0.12,
+  "source_x_mm": 19,
+  "source_y_mm": 9,
+  "odor_length_mm": 12,
+  "choice_x_mm": 12,
+  "choice_abs_y_mm": 2.5,
+  "odor_noise_sd": 0.0008,
+  "video_fps": 25,
+  "protocol": "paper_paired",
+  "center_motor_readout": true
+}

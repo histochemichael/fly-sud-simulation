@@ -1,0 +1,8 @@
+{
+  "prepared_utc": "2026-09-20T03:46:30.756581+00:00",
+  "input_report_sha256": "521e1ff7e05ad08446ba1ca6ca9721ec63632c7457120f8a65f44b92845f0a63",
+  "paper_image_sha256": "d3a0c90618fd6d56acf4997c39f893c94c81133d10ded7d1c0ed227c776d99a8",
+  "preparation_script_sha256": "d7214f72d81f50d069089622f858342210e66c3e538101ec3fc1faf47db6b2e0",
+  "original_experiments_unchanged": true,
+  "comparison": "Original paper image beside original simulation data; no digitization"
+}

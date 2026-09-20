@@ -1,10 +1,12 @@
 .venv/
+publication/
 __pycache__/
 *.py[cod]
 .pytest_cache/
 results/*
 !results/.gitkeep
 tmp/
+data/connectome_v783/raw/
 output/*
 !output/assets/
 !output/sleek_revision/

@@ -1,0 +1,49 @@
+{
+  "dataset": "FlyWire FAFB v783",
+  "annotation_count": 139255,
+  "selected_neurons": 8570,
+  "roles": {
+    "KC": 5177,
+    "ORN": 2281,
+    "PN": 685,
+    "DAN": 331,
+    "MBON": 96
+  },
+  "minimum_aggregated_pair_synapses": 5,
+  "selected_pairs": 60731,
+  "used_pairs": 51369,
+  "blocks": {
+    "ORN->PN": {
+      "pairs": 7687,
+      "synapses": 144919,
+      "connected_targets": 338
+    },
+    "PN->KC": {
+      "pairs": 21509,
+      "synapses": 316862,
+      "connected_targets": 4723
+    },
+    "KC->MBON": {
+      "pairs": 21438,
+      "synapses": 169931,
+      "connected_targets": 77
+    },
+    "DAN->KC": {
+      "pairs": 324,
+      "synapses": 1829,
+      "connected_targets": 263
+    },
+    "DAN->MBON": {
+      "pairs": 735,
+      "synapses": 12952,
+      "connected_targets": 77
+    }
+  },
+  "scope": "Measured ORN->PN->KC->MBON and DAN->MBON feedforward blocks. DAN->KC exported but inactive in this version. Not whole-brain dynamics.",
+  "assumptions": [
+    "Synapse counts normalized within each selected input block, not measured conductance.",
+    "Generic odor tuning, rectified steady-state rates, KC sparsification, plasticity and motor decoding are assumed.",
+    "Other selected edges retained for auditing but not simulated; no recurrent or descending-neuron dynamics.",
+    "Publication-era annotation sides retained; current Codex corrected imagery handedness may differ."
+  ]
+}
